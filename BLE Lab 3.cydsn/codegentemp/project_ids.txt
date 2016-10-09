@@ -1,0 +1,5 @@
+C:\mystuff\School\Fall 2016\Embedded Systems\Lab3-Lundgren-Cooper\BLE Lab 3.cydsn\BLE Lab 3.cyprj|5de51a93-4d4e-473d-9395-d7145a2cf0a6
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|87c73f86-d1c9-4d24-854b-40217c6c3f98
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|693f3b1c-7555-4417-a9ba-72ff13610fd4
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|08462c95-dfa5-48eb-b146-337b4bcd5c79
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b2d1b0a6-eee0-43f6-a648-913a047190c2
